@@ -18,3 +18,8 @@ devtools/
 Thumbs.db
 desktop.ini
 __pycache__/
+
+# Claude Code workspace: machine-specific files (written by setup_claude_code.py
+# and by Claude Code itself)
+claude-code/.mcp.json
+claude-code/.claude/settings.local.json

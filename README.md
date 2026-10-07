@@ -83,6 +83,10 @@ Go to https://chat.deepseek.com (recommended), https://chatgpt.com, https://gemi
 - Control play-testing
 - **Remember your project across sessions** persistent project memory saved inside your place
 
+## Use with Claude Code
+
+The [`claude-code`](claude-code/README.md) folder makes Claude Code, running Claude Opus 5.5, into a Roblox Studio agent on Windows, macOS or Linux. It connects to Studio's MCP server directly, without the extension or the bridge.
+
 ## New in 1.5.5
 
 - **DeepSeek: the agent starts again on the new unified model.** DeepSeek merged Instant, Expert and Vision into one model and removed the model picker, which left "Start Roblox agent" stuck on "DeepSeek mode not ready". ZeroScript now recognises the new chat box, switches Search off and starts, with DeepThink left on.

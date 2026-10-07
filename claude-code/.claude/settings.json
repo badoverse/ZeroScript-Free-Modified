@@ -1,0 +1,17 @@
+{
+  "model": "claude-opus-5-5",
+  "permissions": {
+    "allow": [
+      "mcp__roblox__list_roblox_studios",
+      "mcp__roblox__get_studio_state",
+      "mcp__roblox__search_game_tree",
+      "mcp__roblox__inspect_instance",
+      "mcp__roblox__script_read",
+      "mcp__roblox__script_search",
+      "mcp__roblox__script_grep",
+      "mcp__roblox__get_console_output",
+      "mcp__roblox__search_creator_store",
+      "mcp__roblox__screen_capture"
+    ]
+  }
+}
